@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**luc-silva/luc-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Iniciante em programação e eterno aprendiz. Atualmente aprofundando estudos em JavaScript (Front e Back End) e Python com o almejo de algum dia se especializar em IoT ou Data Science!</p>
+<h4>Tecnologias:</h4>
+<ul type="square">
+  <li>MySQL, Python, JavaScript
+  <li>Visual Studio Code 
+</ul>
+<h4>Atualmente interessado em:</h4>
+<ul type="square">
+  <li>Java, Kotlin, LUA
+</ul>
+<h4>Hobbies e Passatempos:</h4>
+<ul type="square">
+  <li>Leitura, Modding e Pixel Art
+</ul>
