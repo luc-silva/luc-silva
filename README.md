@@ -1,4 +1,5 @@
-<p>Iniciante em programação e eterno aprendiz. Atualmente aprofundando estudos em JavaScript (Front e Back End) e Python com o almejo de algum dia se especializar em IoT ou Data Science!</p>
+<h3>Olá, me chamo Lucas!</h3>
+<p>Iniciante em programação e eterno aprendiz com o almejo de algum dia se especializar em IoT ou Data Science! Atualmente aprofundando estudos em JavaScript (Front e Back End) e Python. </p>
 <h4>Tecnologias:</h4>
 <ul type="square">
   <li>MySQL, Python, JavaScript
