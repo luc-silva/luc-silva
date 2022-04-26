@@ -1,5 +1,5 @@
 <h3>Olá, me chamo Lucas!</h3>
-<p>Eterno aprendiz e Iniciante em programação com o almejo de algum dia se especializar em IoT, Cloud ou Data Science! Atualmente aprofundando estudos em Java Script (Front e Back End), Python, SQL e UI/UX.</p>
+<p>Eterno aprendiz e iniciante em programação com o almejo de algum dia se especializar em IoT, DevOps ou Cloud! Atualmente desenvolvendo um portfólio e aprofundando estudos em Java Script (Front e Back End) e Python.</p>
 <h4>Tecnologias:</h4>
 <ul type="square">
   <li>MySQL, HTML/CSS, Python, JavaScript
