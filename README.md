@@ -5,11 +5,3 @@
   <li>SQL, HTML/CSS, Python, JavaScript
   <li>Visual Studio Code 
 </ul>
-<h4>Atualmente interessado em:</h4>
-<ul type="square">
-  <li>Java, Kotlin, C#, LUA
-</ul>
-<h4>Hobbies e Passatempos:</h4>
-<ul type="square">
-  <li>Leitura, Modding e Pixel Art
-</ul>
