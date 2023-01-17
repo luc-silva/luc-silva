@@ -1,6 +1,6 @@
 ## Hi, how are you?
 
-I'm a 20yo Software Enginering Student who lives in Brazil, Sao Paulo. My main programming language is Javascript but I also want to learn Rust and increase my skills with shell in the near future.
+I'm a 20yo Software Enginering Student who lives in Brazil, Sao Paulo. My main programming language is Javascript but I also want to learn Java and increase my skills with shell in the near future.
 
 Currently developing a portfolio website and "remastering" projects
 
