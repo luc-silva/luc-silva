@@ -10,6 +10,7 @@ Currently developing a portfolio website and "remastering" projects
 ![](https://komarev.com/ghpvc/?username=luc-silva&color=blue)
 
 ### Recent Projects
+- [Portfolio](https://github.com/luc-silva/portfolio)
+- [Restaurant Page](https://github.com/luc-silva/restaurant-page)
 - [Weather App](https://github.com/luc-silva/weather-app)
-- [To-do](https://github.com/luc-silva/to-do)
-- [Restaurant Page](https://github.com/luc-silva/restaurant-page/tree/react-version)
+
