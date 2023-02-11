@@ -11,6 +11,7 @@ Currently "remastering" projects
 
 ### Recent Projects
 - [Portfolio](https://github.com/luc-silva/portfolio)
+- [Todo Manager](https://github.com/luc-silva/to-do)
 - [Restaurant Page](https://github.com/luc-silva/restaurant-page)
 - [Weather App](https://github.com/luc-silva/weather-app)
 
