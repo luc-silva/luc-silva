@@ -4,7 +4,7 @@ I'm a 20yo Software Enginering Student who lives in Brazil, Sao Paulo. My main p
 
 Currently "remastering" projects
 
-[Linkedin Page](https://www.linkedin.com/in/silva-luc/)
+[Linkedin Page](https://www.linkedin.com/in/silva-luc/) | [Personal Website](https://luc-silva.github.io/portfolio/)
 
 [![wakatime](https://wakatime.com/badge/user/c1b7afcb-168f-4074-bcff-1c6756fac9a3.svg)](https://wakatime.com/@c1b7afcb-168f-4074-bcff-1c6756fac9a3)
 ![](https://komarev.com/ghpvc/?username=luc-silva&color=blue)
