@@ -9,6 +9,7 @@ Currently "remastering" projects
 [![wakatime](https://wakatime.com/badge/user/c1b7afcb-168f-4074-bcff-1c6756fac9a3.svg)](https://wakatime.com/@c1b7afcb-168f-4074-bcff-1c6756fac9a3)
 ![](https://komarev.com/ghpvc/?username=luc-silva&color=blue)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=luc-silva&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 ### Recent Projects
 - [Portfolio](https://github.com/luc-silva/portfolio)
 - [Todo Manager](https://github.com/luc-silva/to-do)
