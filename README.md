@@ -1,8 +1,8 @@
 ## Hi, how are you?
 
-I'm a 20yo Software Enginering Student who lives in Brazil, Sao Paulo. My main programming language is Javascript but I also want to learn Java and increase my skills with shell in the near future.
+I'm a 20yo Software Enginering Student who lives in Brazil, São Paulo. My main programming language is Javascript but I also want to learn Java and increase my backend skills in the near future.
 
-Currently "remastering" projects
+Currently devolping a CRUD marketplace project.
 
 [Linkedin Page](https://www.linkedin.com/in/silva-luc/) | [Personal Website](https://luc-silva.github.io/portfolio/)
 
