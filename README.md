@@ -6,7 +6,7 @@ Currently devolping a CRUD marketplace project.
 
 [Linkedin Page](https://www.linkedin.com/in/silva-luc/) | [Personal Website](https://luc-silva.github.io/portfolio/)
 
-[![](https://tryhackme-badges.s3.amazonaws.com/luc.silva.png)](https://tryhackme.com/p/luc.silva)
+[![tryhackme](https://tryhackme-badges.s3.amazonaws.com/luc.silva.png)](https://tryhackme.com/p/luc.silva)
 
 
 [![wakatime](https://wakatime.com/badge/user/c1b7afcb-168f-4074-bcff-1c6756fac9a3.svg)](https://wakatime.com/@c1b7afcb-168f-4074-bcff-1c6756fac9a3)
