@@ -1,10 +1,9 @@
-## Hi, how are you?
+## Olá, como vai?
+Possuo 20 anos e sou um estudante de Engenharia de Software que mora em São Paulo, Brazil. Utilizo a Stack JS (Javascript, Typescript, Node (express) e React como minhas princípais ferramentas, mas também pretendo aprender Java e me especializar no backend no futuro.
 
-I'm a 20yo Software Enginering Student who lives in Brazil, São Paulo. My main programming language is Javascript but I also want to learn Java and increase my backend skills in the near future.
+Atualmente desenvolvendo um CRUD baseado em um marketplace.
 
-Currently devolping a CRUD marketplace project.
-
-[Linkedin Page](https://www.linkedin.com/in/silva-luc/) | [Personal Website](https://luc-silva.github.io/portfolio/)
+[Página do LinkedIn](https://www.linkedin.com/in/silva-luc/) | [Site Pessoal](https://luc-silva.github.io/portfolio/)
 
 [![tryhackme](https://tryhackme-badges.s3.amazonaws.com/luc.silva.png)](https://tryhackme.com/p/luc.silva)
 
@@ -13,7 +12,7 @@ Currently devolping a CRUD marketplace project.
 ![](https://komarev.com/ghpvc/?username=luc-silva&color=blue)
 ![](https://www.codewars.com/users/luc-silva/badges/micro)
 
-### Recent Projects
+### Projetos Recentes
 - [Electroware, Marketplace CRUD](https://github.com/luc-silva/electroware)
 - [Portfolio](https://github.com/luc-silva/portfolio)
 - [Todo Manager](https://github.com/luc-silva/to-do)
