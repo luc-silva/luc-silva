@@ -14,6 +14,7 @@ Currently devolping a CRUD marketplace project.
 ![](https://www.codewars.com/users/luc-silva/badges/micro)
 
 ### Recent Projects
+- [Electroware, Marketplace CRUD](https://github.com/luc-silva/electroware)
 - [Portfolio](https://github.com/luc-silva/portfolio)
 - [Todo Manager](https://github.com/luc-silva/to-do)
 - [Restaurant Page](https://github.com/luc-silva/restaurant-page)
