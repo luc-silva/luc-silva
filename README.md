@@ -1,5 +1,5 @@
 ## Olá, como vai?
-Possuo 20 anos e sou um estudante de Engenharia de Software que mora em São Paulo, Brazil. Utilizo a Stack JS (Javascript, Typescript, Node (express) e React como minhas princípais ferramentas, mas também pretendo aprender Java e me especializar no backend no futuro.
+Possuo 20 anos e sou um estudante de Engenharia de Software que mora em São Paulo, Brazil. Utilizo a Stack JS (Javascript, Typescript, Node (express) e React) como minhas principais ferramentas, mas também pretendo aprender Java e me especializar no backend no futuro.
 
 Atualmente desenvolvendo um CRUD baseado em um marketplace.
 
