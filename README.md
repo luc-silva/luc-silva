@@ -5,7 +5,7 @@ Atualmente desenvolvendo um CRUD baseado em um marketplace.
 
 [Página do LinkedIn](https://www.linkedin.com/in/silva-luc/) | [Site Pessoal](https://luc-silva.github.io/portfolio/)
 
-[![](https://tryhackme-badges.s3.amazonaws.com/luc.silva.png)](https://tryhackme.com/p/luc.silva)
+[![tryhackme]( https://tryhackme-badges.s3.amazonaws.com/luc.silva.png)](https://tryhackme.com/p/luc.silva)
 
 [![wakatime](https://wakatime.com/badge/user/c1b7afcb-168f-4074-bcff-1c6756fac9a3.svg)](https://wakatime.com/@c1b7afcb-168f-4074-bcff-1c6756fac9a3)
 ![](https://komarev.com/ghpvc/?username=luc-silva&color=blue)
