@@ -14,9 +14,9 @@ Atualmente desenvolvendo um CRUD baseado em um marketplace.
 ### Projetos Recentes
 - [Electroware, Marketplace CRUD](https://github.com/luc-silva/electroware)
 - [Portfolio](https://github.com/luc-silva/portfolio)
+- [Weather App](https://github.com/luc-silva/weather-app)
 - [Todo Manager](https://github.com/luc-silva/to-do)
 - [Restaurant Page](https://github.com/luc-silva/restaurant-page)
-- [Weather App](https://github.com/luc-silva/weather-app)
 
 <!--  
 [![GitHub Streak](https://streak-stats.demolab.com?user=luc-silva&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luc-silva&layout=compact&theme=radical)
