@@ -1,6 +1,8 @@
 ## Olá, como vai?
 Tenho 20 anos e sou um estudante de Engenharia de Software que mora em São Paulo, Brasil. Utilizo a Stack JS (Javascript, Typescript, Node/Express e React) como minhas principais ferramentas, mas também pretendo aprender Java e me especializar no backend no futuro.
 
+Atualmente estou atualizando o BookWise para typescript e react! Aproveitando também para praticar alguns conceitos novos relacionados a arquiteura, validação e testes (irei atualizar o Electroware com o resultado dessa prática :>).
+
 [Página do LinkedIn](https://www.linkedin.com/in/silva-luc/) | [Site Pessoal](https://luc-silva.github.io/portfolio/)
 
 [![tryhackme]( https://tryhackme-badges.s3.amazonaws.com/luc.silva.png)](https://tryhackme.com/p/luc.silva)
