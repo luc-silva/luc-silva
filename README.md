@@ -19,4 +19,6 @@ Atualmente estou atualizando o BookWise de Javascript para Typescript e React! A
 - [Restaurant Page](https://github.com/luc-silva/restaurant-page)
 
 <!--  
+![](https://leetcode.card.workers.dev/luc-silva?theme=auto&font=baloo&extension=null)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=luc-silva&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luc-silva&layout=compact&theme=radical)
