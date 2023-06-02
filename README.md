@@ -1,13 +1,13 @@
 # Olá, como vai?
 Tenho 20 anos e sou um estudante de Engenharia de Software que mora em São Paulo, Brasil. Utilizo Typescript, Node/Express e React como minhas principais ferramentas, mas também estudo springboot e tenho alguns projetos em Java.
 
-Meu primeiro contato com a programação foi em um curso de gamedev vim a concluir em 2018, mas só comecei a criar meus projetos quando decidi seguir a grade currícular do [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript), no início da minha faculdade.
+Meu primeiro contato com a programação foi em um curso de gamedev que vim a concluir em 2018, mas só comecei a criar meus projetos quando decidi seguir a grade currícular do [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript), no início da minha faculdade.
 
-Apesar de não ter experiência real, me preocupo bastante com a estrutura de meus projetos pois gosto muito de desenvolver.
+Apesar de não ter experiência real, me preocupo bastante com a estrutura de meus projetos pois me permite facilidade de reuso e refatoração.
 
 Também sou entusiasta de cibersegurança, e a considero tão importante quanto a arquitetura de um software.
 
-Costumo criar minhas aplicações em um ambiente linux por costume e outros motivos, sendo um deles a facilidade de configurar containers com o Docker.
+Costumo criar minhas aplicações em um ambiente linux devido a compatibilidade com algumas aplicações, como o Docker, além de já estar acostumado com o sistema operacional graças ao The Odin Project.
 
 
 [Página do LinkedIn](https://www.linkedin.com/in/silva-luc/) e [Portfólio](https://luc-silva.github.io/portfolio/) 
