@@ -1,7 +1,7 @@
 # Olá, como vai?
 Tenho 20 anos e sou um estudante de Engenharia de Software que mora em São Paulo, Brasil. Utilizo Typescript, Node/Express e React como minhas principais ferramentas, mas também estudo springboot e tenho alguns projetos em Java.
 
-Meu primeiro contato com a programação foi em um curso de gamedev que vim a concluir em 2018, mas só comecei a criar meus projetos quando decidi seguir a grade currícular do [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript), no início da minha faculdade.
+Meu primeiro contato com a programação foi em um curso de gamedev que vim a concluir em 2018, mas só comecei a criar meus projetos quando decidi seguir a grade currícular do [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript), no início da minha faculdade. Hoje meu foco não é games mas tento aprender com o mesmo entusiasmo.
 
 Apesar de não ter experiência real, me preocupo bastante com a estrutura de meus projetos pois me permite facilidade de reuso e refatoração.
 
