@@ -9,6 +9,8 @@ Também sou entusiasta de cibersegurança, e a considero tão importante quanto 
 
 Costumo criar minhas aplicações em um ambiente linux devido a compatibilidade com algumas aplicações, como o Docker, além de já estar acostumado com o sistema operacional graças ao The Odin Project.
 
+Atualmente criando a API do projeto Todo Manager (Vou aproveitar e renomea-la para Taskbuddy) em spring boot. Pretendo também criar a segunda API, em Java + springboot, do meu [principal projeto](https://github.com/luc-silva/electroware) em breve.
+
 
 [Página do LinkedIn](https://www.linkedin.com/in/silva-luc/) e [Portfólio](https://luc-silva.github.io/portfolio/) 
 
