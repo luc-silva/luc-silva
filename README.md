@@ -23,7 +23,7 @@ Atualmente criando a API do projeto Todo Manager (Vou aproveitar e renomea-la pa
 - [Electroware, Marketplace CRUD](https://github.com/luc-silva/electroware)
 - [Bookwise](https://github.com/luc-silva/bookwise)
 - [Portfolio](https://github.com/luc-silva/portfolio)
-- [Weather App](https://github.com/luc-silva/weather-app)
+- [WeatherScope](https://github.com/luc-silva/weatherscope)
 - [Todo Manager](https://github.com/luc-silva/to-do)
 
 <!--  
