@@ -26,8 +26,9 @@ Atualmente criando a API do projeto Todo Manager (Vou aproveitar e renomea-la pa
 - [Weather App](https://github.com/luc-silva/weather-app)
 - [Todo Manager](https://github.com/luc-silva/to-do)
 
-
 <!--  
+
+![]( https://github-readme-stats.vercel.app/api?username=luc-silva&count_private=true&theme=github_dark&show_icons=true&card_width=500px)
 ![](https://leetcode.card.workers.dev/luc-silva?theme=auto&font=baloo&extension=null)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=luc-silva&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luc-silva&layout=compact&theme=radical)
