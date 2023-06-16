@@ -24,7 +24,7 @@ Atualmente criando a API do projeto Todo Manager (Vou aproveitar e renomea-la pa
 - [Bookwise](https://github.com/luc-silva/bookwise)
 - [Portfolio](https://github.com/luc-silva/portfolio)
 - [WeatherScope](https://github.com/luc-silva/weatherscope)
-- [Todo Manager](https://github.com/luc-silva/to-do)
+- [Taskbuddy](https://github.com/luc-silva/to-do)
 
 <!--  
 
