@@ -10,7 +10,6 @@ Atualmente criando a API do projeto Todo Manager (Vou aproveitar e renomea-la pa
 
 [Página do LinkedIn](https://www.linkedin.com/in/silva-luc/) e [Portfólio](https://luc-silva.github.io/portfolio/) 
 
-[![tryhackme]( https://tryhackme-badges.s3.amazonaws.com/luc.silva.png)](https://tryhackme.com/p/luc.silva)
 
 [![wakatime](https://wakatime.com/badge/user/c1b7afcb-168f-4074-bcff-1c6756fac9a3.svg)](https://wakatime.com/@c1b7afcb-168f-4074-bcff-1c6756fac9a3)
 ![](https://komarev.com/ghpvc/?username=luc-silva&color=blue)
@@ -23,6 +22,7 @@ Atualmente criando a API do projeto Todo Manager (Vou aproveitar e renomea-la pa
 - [Taskbuddy](https://github.com/luc-silva/to-do)
 
 <!--  
+[![tryhackme]( https://tryhackme-badges.s3.amazonaws.com/luc.silva.png)](https://tryhackme.com/p/luc.silva)
 
 ![]( https://github-readme-stats.vercel.app/api?username=luc-silva&count_private=true&theme=github_dark&show_icons=true&card_width=500px)
 ![](https://leetcode.card.workers.dev/luc-silva?theme=auto&font=baloo&extension=null)
