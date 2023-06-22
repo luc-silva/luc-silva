@@ -5,10 +5,6 @@ Meu primeiro contato com a programação foi em um curso de gamedev que vim a co
 
 Apesar de não ter experiência real, me preocupo bastante com a estrutura de meus projetos pois me permite facilidade de reuso e refatoração.
 
-Também sou entusiasta de cibersegurança, e a considero tão importante quanto a arquitetura de um software.
-
-Costumo criar minhas aplicações em um ambiente linux devido a compatibilidade com algumas aplicações, como o Docker, além de já estar acostumado com o sistema operacional graças ao The Odin Project.
-
 Atualmente criando a API do projeto Todo Manager (Vou aproveitar e renomea-la para Taskbuddy) em spring boot. Pretendo também criar a segunda API, em Java + springboot, do meu [principal projeto](https://github.com/luc-silva/electroware) em breve.
 
 
