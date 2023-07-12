@@ -1,4 +1,6 @@
-# Olá, como vai?
+<h1  align="center">
+  Olá, como vai?
+</h1>
 Tenho 20 anos e sou um estudante de Engenharia de Software que mora em São Paulo, Brasil. Utilizo Typescript, Node/Express e React como minhas principais ferramentas, mas também estudo springboot e tenho alguns projetos em Java.
 
 Meu primeiro contato com a programação foi em um curso de gamedev que vim a concluir em 2018, mas só comecei a criar meus projetos quando decidi seguir a grade currícular do [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript), no início da minha faculdade. Hoje meu foco não é games mas tento aprender com o mesmo entusiasmo.
@@ -14,13 +16,11 @@ Atualmente criando a API do projeto Todo Manager (Vou aproveitar e renomea-la pa
 [![wakatime](https://wakatime.com/badge/user/c1b7afcb-168f-4074-bcff-1c6756fac9a3.svg)](https://wakatime.com/@c1b7afcb-168f-4074-bcff-1c6756fac9a3)
 ![](https://komarev.com/ghpvc/?username=luc-silva&color=blue)
 
-## Projetos Recentes
-- [Electroware, Marketplace CRUD](https://github.com/luc-silva/electroware)
-- [Bookwise](https://github.com/luc-silva/bookwise)
+> Projetos Recentes
+- [Electroware | API & Client](https://github.com/luc-silva/electroware)
+- [Bookwise | API & Client](https://github.com/luc-silva/bookwise)
+- [Taskbuddy | API & Client](https://github.com/luc-silva/to-do)
 - [Portfolio](https://github.com/luc-silva/portfolio)
-- [WeatherScope](https://github.com/luc-silva/weatherscope)
-- [Taskbuddy](https://github.com/luc-silva/to-do)
-
 <!--  
 [![tryhackme]( https://tryhackme-badges.s3.amazonaws.com/luc.silva.png)](https://tryhackme.com/p/luc.silva)
 
