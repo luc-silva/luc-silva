@@ -18,8 +18,8 @@ Atualmente criando a API do projeto Todo Manager (Vou aproveitar e renomea-la pa
 
 > Projetos Recentes
 - [Electroware | API & Client](https://github.com/luc-silva/electroware)
-- [Bookwise    | API & Client](https://github.com/luc-silva/bookwise)
-- [Taskbuddy   | API & Client](https://github.com/luc-silva/to-do)
+- [Bookwise    | API & Client](https://github.com/luc-silva/Bookwise)
+- [Taskbuddy   | API & Client](https://github.com/luc-silva/Taskbuddy)
 - [Portfolio](https://github.com/luc-silva/portfolio)
 <!--  
 [![tryhackme]( https://tryhackme-badges.s3.amazonaws.com/luc.silva.png)](https://tryhackme.com/p/luc.silva)
