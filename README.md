@@ -7,7 +7,7 @@ Meu primeiro contato com a programação foi em um curso de gamedev que vim a co
 
 Apesar de não ter experiência real, me preocupo bastante com a estrutura de meus projetos pois me permite facilidade de reuso e refatoração.
 
-Atualmente criando a API do projeto Todo Manager (Vou aproveitar e renomea-la para Taskbuddy) em spring boot. Pretendo também criar a segunda API, em Java + springboot, do meu [principal projeto](https://github.com/luc-silva/electroware) em breve.
+Pretendo criar a segunda API, em Java + springboot, do meu [principal projeto](https://github.com/luc-silva/electroware) em breve.
 
 
 [Página do LinkedIn](https://www.linkedin.com/in/silva-luc/) e [Portfólio](https://luc-silva.github.io/portfolio/) 
