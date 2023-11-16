@@ -6,7 +6,7 @@ Atualmente moro em São Paulo, tenho 20 anos e estou cursando o quarto semestre 
 
 Meu primeiro contato com a programação foi em um curso de gamedev que vim a concluir em 2018, mas só comecei a criar meus projetos quando decidi seguir a grade currícular do [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript), no início da minha faculdade.
 
-Atualmente estou aprendendo C# e criando algumas ferramentas de CLI com Rust. Estive desenvolvendo um remaster de um projeto (Bookwise) mas dei uma pausa temporaria
+Atualmente estou aprendendo C# e criando algumas ferramentas de CLI com Rust. Estive desenvolvendo um remaster de um projeto (Bookwise) mas dei uma pausa temporária.
 
 [Página do LinkedIn](https://www.linkedin.com/in/silva-luc/) e [Portfólio](https://luc-silva.github.io/portfolio/) 
 
