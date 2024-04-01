@@ -20,7 +20,42 @@ Meu primeiro contato com a programação foi em um curso de gamedev que vim a co
 <!--  
 [![tryhackme]( https://tryhackme-badges.s3.amazonaws.com/luc.silva.png)](https://tryhackme.com/p/luc.silva)
 
+
+
 ![]( https://github-readme-stats.vercel.app/api?username=luc-silva&count_private=true&theme=github_dark&show_icons=true&card_width=500px)
 ![](https://leetcode.card.workers.dev/luc-silva?theme=auto&font=baloo&extension=null)
 https://www.youtube.com/watch?v=NmU2nNehNNY
 [![GitHub Streak](https://streak-stats.demolab.com?user=luc-silva&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luc-silva&layout=compact&theme=radical)
+
+export default validateRequest({ methods: ['PUT'] }, async (req, res) => {
+  const session = await ensureGetSession({ req });
+  const errors: ErrorData[] = [];
+
+  await req.body.forEach(async (item: Zod.infer<typeof editQidVmItemZod>) => {
+    try {
+      const qidVmExist = (await checkIfQidvmExist(item)) as IQidVm[];
+
+      if (qidVmExist.length > 0) {
+        const data = editQidVmItemZod.parse(item);
+        await editQidVm(data, Number(session.user.idMat));
+      } else {
+        const data = createQidVmZod.parse(item);
+        await createQidVm(data, Number(session.user.idMat));
+      }
+    } catch (e: any) {
+      errors.push({
+        ...item,
+        errorDetails: {
+          message: e.message,
+        },
+      });
+      //console.log(errors);
+    }
+  });
+
+  console.log(errors);
+  if (errors.length > 0) {
+    return res.status(207).send({ ok: 'erro', errors });
+  }
+  return res.status(200).send({ ok: 'success' });
+});
