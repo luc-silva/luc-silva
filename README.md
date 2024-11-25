@@ -2,7 +2,7 @@
   Olá, como vai?
 </h1>
 
-Atualmente moro em São Paulo, tenho 20 anos e estou cursando o quarto semestre de engenharia de software. Minhas principais ferramentas são Typescript, Node/Express e React, mas também utilizo Rust e possuo alguns projetos com Java.
+Atualmente moro em São Paulo, tenho 20 anos e estou cursando o sexto semestre de engenharia de software. Minhas principais ferramentas são Typescript, Node/Express e React, mas também utilizo Rust e possuo alguns projetos com Java.
 
 Meu primeiro contato com a programação foi em um curso de gamedev que vim a concluir em 2018, mas só comecei a criar meus projetos quando decidi seguir a grade currícular do [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript), no início da minha faculdade.
 
