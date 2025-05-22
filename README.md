@@ -1,22 +1,29 @@
-<h1  align="center">
-  Olá, como vai?
+<h1 align="center">
+  E ai, tudo certo?
 </h1>
 
-Atualmente moro em São Paulo, tenho 20 anos e estou cursando o sexto semestre de engenharia de software. Minhas principais ferramentas são Typescript, Node/Express e React, mas também utilizo Rust e possuo alguns projetos com Java.
+Sou de São Paulo, tenho 22 anos e atualmente curso o sexto semestre de **Engenharia de Software**.  
+Minha principal meta é me tornar um desenvolvedor completo, com domínio tanto no **backend** quanto no **frontend**, e com foco especial em **performance, escalabilidade e boas práticas de engenharia**.
 
-Meu primeiro contato com a programação foi em um curso de gamedev que vim a concluir em 2018, mas só comecei a criar meus projetos quando decidi seguir a grade currícular do [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript), no início da minha faculdade.
+Desde criança, sempre fui fascinado por jogos e sonhava em criar os meus próprios. Em 2017, dei o primeiro passo nessa direção com um curso de desenvolvimento de jogos, que aumentou meu interesse por programação. Entretanto, foi somente ao ingressar na faculdade que comecei a desenvolver aplicações de fato, seguindo a trilha do [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) para tentar construir uma base sólida com projetos práticos.
 
-[Página do LinkedIn](https://www.linkedin.com/in/silva-luc/) e [Portfólio](https://luc-silva.github.io/portfolio/) 
+Tenho trabalhado principalmente com **TypeScript**, **Node.js**, **OracleDB** e **React**, mas também exploro outras tecnologias como **Python** e **C#**, com o objetivo de expandir meu conhecimento técnico e fortalecer minha base como desenvolvedor.
 
+Estou sempre tentando adquirir mais conhecimento na área, seja por livros, projetos pessoais (e outras aplicações práticas) ou pesquisa.
 
-[![wakatime](https://wakatime.com/badge/user/c1b7afcb-168f-4074-bcff-1c6756fac9a3.svg)](https://wakatime.com/@c1b7afcb-168f-4074-bcff-1c6756fac9a3)
+📌 **Links importantes**  
+- [LinkedIn](https://www.linkedin.com/in/silva-luc/)  
+- [Portfólio](https://luc-silva.github.io/portfolio/)
+
+[![wakatime](https://wakatime.com/badge/user/c1b7afcb-168f-4074-bcff-1c6756fac9a3.svg)](https://wakatime.com/@c1b7afcb-168f-4074-bcff-1c6756fac9a3)  
 ![](https://komarev.com/ghpvc/?username=luc-silva&color=blue)
 
-> Projetos Recentes
-- [Electroware](https://github.com/luc-silva/electroware)
-- [Bookwise](https://github.com/luc-silva/Bookwise)
-- [Taskbuddy](https://github.com/luc-silva/Taskbuddy)
-- [Portfolio](https://github.com/luc-silva/portfolio)
+> 💡 **Projetos Recentes**
+- [Electroware](https://github.com/luc-silva/electroware) — Marketplace com autenticação
+- [Bookwise](https://github.com/luc-silva/Bookwise) — Gerenciador de livros
+- [Taskbuddy](https://github.com/luc-silva/Taskbuddy) — Organizador de tarefas
+- [Portfolio](https://github.com/luc-silva/portfolio) — Página pessoal
+
 <!--  
 [![tryhackme]( https://tryhackme-badges.s3.amazonaws.com/luc.silva.png)](https://tryhackme.com/p/luc.silva)
 
