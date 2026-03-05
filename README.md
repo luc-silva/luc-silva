@@ -2,7 +2,7 @@
   E ai, tudo certo?
 </h1>
 
-Sou de São Paulo, tenho 23 anos e atualmente curso o sexto semestre de **Engenharia de Software**.  
+Sou de São Paulo, tenho 23 anos e sou formado em **Engenharia de Software**.
 Minha principal meta é me tornar um desenvolvedor completo, com domínio tanto no **backend** quanto no **frontend**, e com foco especial em **performance, escalabilidade e boas práticas de engenharia**.
 
 Desde criança, sempre fui fascinado por jogos e sonhava em criar os meus próprios. Em 2017, dei o primeiro passo nessa direção com um curso de desenvolvimento de jogos, que aumentou meu interesse por programação. Entretanto, foi somente ao ingressar na faculdade que comecei a desenvolver aplicações de fato, seguindo a trilha do [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) para tentar construir uma base sólida com projetos práticos.
